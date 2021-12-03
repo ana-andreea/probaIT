@@ -1,0 +1,45 @@
+.nav_container
+{
+    width: 100%;
+    padding-left: 57px;
+    padding-right: 42px;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    
+}
+
+.nav_unda
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 873px;
+    height: 211px;
+    z-index: -1;
+}
+
+.nav_logo
+{
+    width: 340px;
+    height: 86px;
+}
+
+.nav_link
+{
+    width: 185px;
+    height: 53px;
+    background: #272A45;
+    border-radius: 30px;
+    color: white;
+    font-size: 24px;
+    margin-right: 79px;
+}
+
+.nav_link:last-child{
+    margin-right: 0px;
+}

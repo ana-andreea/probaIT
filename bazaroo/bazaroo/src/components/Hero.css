@@ -1,0 +1,26 @@
+.hero_container
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 212px;
+    padding-right: 63px;
+    margin-top: 67px;
+    margin-bottom: 111px;
+}
+.hero_img
+{
+    width: 550px;
+    height: 535px;
+}
+.hero_text h1
+{
+    max-width: 492px;
+    font-size: 48px;
+}
+.hero_text h2
+{
+    max-width: 422px;
+    font-size: 36px;
+}

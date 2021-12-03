@@ -1,0 +1,84 @@
+.recenzii_container
+{
+    position: relative;
+    padding-left: 84px;
+    padding-right: 71px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 193px;
+}
+
+.recenzii_container h1 
+{
+    margin-left: 176px;
+    font-size: 64px;
+    margin-bottom: 64px;
+}
+
+.recenzii_slider
+{
+    display: flex;
+    align-items: center;
+}
+
+.recenzie_container
+{
+    width: 538px;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    padding-left: 66px;
+    padding-right: 66px;
+    height: 462px;
+    background: linear-gradient(180deg, #B1E0FF 17.19%, #AEC0FF 71.35%);
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.recenzie_container:first-of-type
+{
+    margin-right: 57px;
+}
+
+.recenzie_titlu
+{
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 58px;
+}
+
+.recenzie_titlu img
+{
+    width: 68px;
+    height: 76px;
+    margin-right: 20px;
+}
+
+.recenzie_titlu h1
+{
+    font-size: 36px;
+    margin: 0;
+}
+
+.recenzie_container p
+{
+    font-size: 36px;
+    margin-top: 0;
+    line-height: 1;
+}
+
+.left {
+    margin-right: 111px;
+    font-size: 76px;
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.right {
+    margin-left: 108px;
+    background: none;
+    outline: none;
+    border: none;
+}
+

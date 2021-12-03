@@ -1,1 +1,1 @@
-# probaIT
+a fost prima mea incercare de a folosi React, am intampinat multe probleme pana am reusit sa inteleg conceptul si functionarea. nu am reusit sa lucrez prea mult, m am chinuit la caruselul pt recenzii cateva zile.# probaIT
